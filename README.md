@@ -1,1 +1,1 @@
-private static void Me() { return null; }
+private static void Me(null);
